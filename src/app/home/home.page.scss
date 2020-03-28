@@ -1,0 +1,91 @@
+#container {
+  text-align: center;
+
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 80%;
+  transform: translateY(-50%);
+}
+
+#container strong {
+  font-size: 20px;
+  line-height: 26px;
+}
+
+#container p {
+  font-size: 16px;
+  line-height: 22px;
+
+  color: #8c8c8c;
+
+  margin: 0;
+}
+
+#container a {
+  text-decoration: none;
+}
+
+ion-content ion-toolbar {
+  --background: translucent;
+}
+
+#container2 {
+  text-align: center;
+
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 30%;
+  transform: translateY(-50%);
+  margin: auto;
+}
+
+#container2 strong {
+  font-size: 20px;
+  line-height: 26px;
+}
+
+.avatars {
+  margin: auto;
+}
+
+#PhotoButton {
+  text-align: center;
+
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 65%;
+  transform: translateY(-50%);
+}
+
+#SettingButton {
+  text-align: center;
+
+  position: absolute;
+  left: 0;
+  right: 65%;
+  top: 60%;
+  transform: translateY(-50%);
+}
+
+#EditButton {
+  text-align: center;
+
+  position: absolute;
+  left: 65%;
+  right: 0;
+  top: 60%;
+  transform: translateY(-50%);
+}
+
+#container3 p{
+  text-align: center;
+
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 100%;
+  transform: translateY(-50%);
+}
